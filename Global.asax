@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="MissingTelemetry.MvcApplication" Language="C#" %>
